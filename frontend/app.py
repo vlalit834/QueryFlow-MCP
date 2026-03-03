@@ -10,7 +10,7 @@ import pandas as pd
 load_dotenv()
 
 st.set_page_config(
-    page_title="DB-gpt Database Query System",
+    page_title="QueryFlow MCP",
     page_icon="🔍",
     layout="wide"
 )
