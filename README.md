@@ -41,8 +41,8 @@ This project is a MySQL database query system based on MCP, providing a graphica
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vlalit834/DB-gpt.git
-cd DB-gpt
+git clone https://github.com/vlalit834/QueryFlow-MCP.git
+cd QueryFlow-MCP
 ```
 
 #### 2. Set Up Virtual Environment
